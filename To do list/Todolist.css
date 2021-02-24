@@ -1,14 +1,15 @@
 body {
-    background-color: dodgerblue;
+        background: linear-gradient(to bottom right, rgb(70, 70, 255), rgb(99, 172, 255)) fixed;
 }
+
 div {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: orange solid 3px;
+    border: rgb(255, 136, 0) solid 3px;
     text-align: center;
     width: 35%;
-    background-color: white;
+    background-color: rgb(255, 177, 87);
 }
 li {
     list-style: none;

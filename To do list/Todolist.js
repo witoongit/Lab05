@@ -4,7 +4,6 @@ var listnum = 0;
 
 function newlist(){
     if(event.key === "Enter"){
-
         console.log("New list")
         var newlist = document.createElement("li")
         var span = document.createElement("span")
