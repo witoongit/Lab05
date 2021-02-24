@@ -1,0 +1,22 @@
+body {
+    background-color: dodgerblue;
+}
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: orange solid 3px;
+    text-align: center;
+    width: 35%;
+    background-color: white;
+}
+li {
+    list-style: none;
+    text-align: left;
+    text-decoration: none;
+}
+
+.done{
+    text-decoration: line-through;
+    color: gray;
+}

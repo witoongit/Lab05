@@ -2,7 +2,11 @@
     color: red;
 
 }
-.day.night{
+#word.night{
+    color: blue;
+
+}
+.night{
     color: white;
 }
 .day{
